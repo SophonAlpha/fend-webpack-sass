@@ -14,5 +14,5 @@ import './styles/header.scss'
 
 console.log(checkForName);
 
-alert("I EXIST")
+alert("Updated client index.js")
 console.log("CHANGE!!");
